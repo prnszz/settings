@@ -3,3 +3,4 @@ zsh-syntax-highlighting
 zsh-autosuggestions
 
 yazi
+
